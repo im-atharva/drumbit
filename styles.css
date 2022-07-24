@@ -1,0 +1,113 @@
+body {
+  text-align: center;
+  background-color: #FFDD93;
+  font-family: 'Albert Sans', sans-serif;
+
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #39311D;
+  font-family: 'Fascinate Inline', cursive;
+
+}
+
+footer {
+
+  color: black;
+  font-family: 'Albert Sans', sans-serif;
+
+}
+
+.footer-icn {
+  margin: 20px 10px;
+}
+
+
+
+.w {
+  background-image: url("images/tom1.png");
+  background-size: 100% 100%;
+}
+
+.a {
+  background-image: url("images/tom2.png");
+  background-size: 100% 100%;
+
+}
+
+.s {
+  background-image: url("images/tom3.png");
+  background-size: 80% 110%;
+  background-position: center;
+
+
+}
+
+.d {
+  background-image: url("images/tom4.png");
+  background-size: 110% 110%;
+  background-position: center;
+
+}
+
+.j {
+  background-image: url("images/crash.png");
+  background-size: 100% 100%;
+
+
+}
+
+.k {
+  background-image: url("images/kick.png");
+  background-size: 100% 100%;
+
+
+}
+
+.l {
+  background-image: url("images/snare.png");
+  background-size: 100% 100%;
+
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #7E7474;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  font-size: 5rem;
+  font-family: 'Fascinate Inline', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #BBE1FA;
+  text-shadow: 3px 0 #0A043C;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}

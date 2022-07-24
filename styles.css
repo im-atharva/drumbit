@@ -30,18 +30,18 @@ footer {
 
 
 .w {
-  background-image: url("images/tom1.png");
+  background-image: url("tom1.png");
   background-size: 100% 100%;
 }
 
 .a {
-  background-image: url("images/tom2.png");
+  background-image: url("tom2.png");
   background-size: 100% 100%;
 
 }
 
 .s {
-  background-image: url("images/tom3.png");
+  background-image: url("tom3.png");
   background-size: 80% 110%;
   background-position: center;
 
@@ -49,28 +49,28 @@ footer {
 }
 
 .d {
-  background-image: url("images/tom4.png");
+  background-image: url("tom4.png");
   background-size: 110% 110%;
   background-position: center;
 
 }
 
 .j {
-  background-image: url("images/crash.png");
+  background-image: url("crash.png");
   background-size: 100% 100%;
 
 
 }
 
 .k {
-  background-image: url("images/kick.png");
+  background-image: url("kick.png");
   background-size: 100% 100%;
 
 
 }
 
 .l {
-  background-image: url("images/snare.png");
+  background-image: url("snare.png");
   background-size: 100% 100%;
 
 
